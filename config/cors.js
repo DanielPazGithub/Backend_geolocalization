@@ -16,7 +16,7 @@ module.exports = {
   | Function - Receives the current origin and should return one of the above values.
   |
   */
-  origin: 'https://spontaneous-otter-ac770c.netlify.app',
+  origin: '*',
 
   /*
   |--------------------------------------------------------------------------
